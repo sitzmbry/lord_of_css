@@ -1,0 +1,28 @@
+body{
+  background-color:darkslategray;
+  background-image:url ("https://cdn.imgbin.com/25/1/7/imgbin-the-lord-of-the-rings-meriadoc-brandybuck-gandalf-one-ring-ring-FuivR5qtwfZc4tR3NKQ7su9wy.jpg");
+
+}
+
+h1{
+  color: red;
+  font-family: 'Kaushan Script', cursive;
+
+}
+
+h2{
+  text-shadow: -3px -3px 2px rgb(209, 8, 8);
+  font-family: 'Courgette', cursive;
+  border:10px outset ivory;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Lobster', cursive;
+}
+
+footer{
+  border: 10px outset black;
+  border-radius: 20px;
+  background-color: orangered;
+}
